@@ -6,5 +6,6 @@ Will update this regularly
 | Name                | About | Example |
 | --------------------|:------|:-------:|
 | [Singly Link List](https://www.geeksforgeeks.org/data-structures/linked-list/singly-linked-list/)| can only move forward | A train connected with its compartments( nodes ) and if you move through one compartment the previous compartment door closes
+| [Doubly Link List](https://en.wikipedia.org/wiki/Doubly_linked_list) | can move both forward and backward | A train connected with its compartments( nodes ) and if you move through one compartment the previous compartment door stays open
 
 
