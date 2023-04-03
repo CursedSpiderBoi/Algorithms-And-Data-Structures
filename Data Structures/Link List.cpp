@@ -39,7 +39,7 @@ public:
 			temp=temp->next;
 			n++;
 		}
-		return temp;
+		return n;
 	}
 	void InsertAtHead(t val){
 		node<t> *temp=new node<t>(val);
